@@ -4,20 +4,20 @@ mob.: +380938358083
 e-mail: bochenkova.elena@gmail.com
 
 ## SKILLS AND SOFTS
-Project managment  
-Basecamp  
-Adobe Photoshop  
-Adobe Premiere  
++ Project managment  
++ Basecamp  
++ Adobe Photoshop  
++ Adobe Premiere  
 
 ## PERSONAL SKILLS
-Reliable and professional  
-Attention to details  
-Analytical mind and strong desire to be the most professional and progressive version of myself  
-Organized  
-Time management  
-Team player  
-Fast learner  
-Motivated
++ Reliable and professional  
++ Attention to details  
++ Analytical mind and strong desire to be the most professional and progressive version of myself  
++ Organized  
++ Time management  
++ Team player  
++ Fast learner  
++ Motivated
 
 ## WORK EXPERIENCE
 
@@ -42,3 +42,13 @@ Havas Media Ukraine | Aug 2015 - Dec 2016
 
 ### AUDIT INTERN
 EY | Feb 2014 - Mar 2014
+
+## EDUCATION
+##### Master of mathematics
+National Technical University "Kyiv Politechnic Institute"| 2010 – 2016
+##### English language
+First Kyiv State Courses of Foreign Languages | 2008 – 2010
+
+## LANGUAGES
+Ukrainian, Russian - Native  
+English - Upper Intermediate
